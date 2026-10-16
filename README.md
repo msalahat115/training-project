@@ -11,3 +11,19 @@ To enable restaurants to efficiently manage their daily operations through a uni
 2. Enable customers to place and track orders.
 
 3. Provide reporting and analytics for restaurant operations.
+
+## Scope
+
+### In Scope
+
+- User Management
+- Menu Management
+- Order Management
+- Payment Management
+- Reporting
+
+### Out of Scope
+
+- Delivery Management
+- Inventory Management
+- Loyalty Programs
