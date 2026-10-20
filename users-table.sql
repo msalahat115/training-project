@@ -1,6 +1,6 @@
 CREATE TABLE users (
     id INT PRIMARY KEY,
-    email VARCHAR(255),
+    email VARCHAR(100),
     created_date DATETIME,
     phone VARCHAR(20)
 );
